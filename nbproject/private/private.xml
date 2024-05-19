@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/SearchProduct.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/dao/PhieuXuatDAO.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/Login.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/dao/ThongKeDAO.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/model/Account.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/AccountForm.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/dao/AccountDAO.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/WritePDF.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/AddNhaCungCap.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/ConvertDate.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/SearchNhaCungCap.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/dao/ChiTietPhieuNhapDAO.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/Test.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/BCrypt.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/model/ThongKeProduct.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/AddProduct.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/AddAccount.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/SearchAccount.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/dao/MayTinhDAO.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/controller/SendEmailSMTP.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/database/JDBCUtil.java</file>
+            <file>file:/D:/Netbean1/QuanLyKhoMayTinh/src/view/Admin.java</file>
+        </group>
+    </open-files>
+</project-private>
